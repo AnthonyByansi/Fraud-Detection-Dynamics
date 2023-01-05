@@ -1,0 +1,22 @@
+data/train.csv: This file contains the training dataset for the machine learning model. It should include a mix of fraudulent and legitimate transactions, along with labels indicating which transactions are fraudulent. The exact format of the file will depend on the specific requirements of your project.
+
+data/test.csv: This file contains the test dataset for the machine learning model. It should include a mix of fraudulent and legitimate transactions, along with labels indicating which transactions are fraudulent. The model will be evaluated on this dataset in order to determine its performance.
+
+data/validation.csv: This file contains the validation dataset for the machine learning model. It should include a mix of fraudulent and legitimate transactions, along with labels indicating which transactions are fraudulent. The model will use this dataset to tune its hyperparameters.
+
+models/model1.h5, models/model2.h5, models/model3.h5: These files contain the trained machine learning models. The models may be saved in a variety of formats, such as HDF5 or pickle.
+
+src/features.py: This file contains functions that are used to extract features from the raw transaction data. The features will be used as input to the machine learning model.
+src/model.py: contain the code for defining the machine learning model
+
+src/train.py: This file contains the code for training the machine learning model. It should read in the training dataset, extract the features, and then use them to train the model.
+
+src/eval.py: This file contains the code for evaluating the machine learning model. It should read in the test dataset, extract the features, and then use them to evaluate the model.
+
+src/predict.py: This file contains the code for making predictions with the machine learning model. It should read in new, unseen data, extract the features, and then use the model to make predictions.
+
+.gitignore: This file tells Git which files and directories to ignore when committing code to the repository. It is useful for excluding generated files, temporary files, or sensitive information from the version control history.
+
+requirements.txt: This file lists the Python packages that are required to run the project. It is used to ensure that all of the necessary dependencies are installed when setting up the project.
+
+README.md: This file contains documentation for the project. It should include information about the project's purpose, how to set it up and run it, and any additional details that will be helpful for other users.
