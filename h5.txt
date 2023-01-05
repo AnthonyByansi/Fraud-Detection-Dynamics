@@ -1,0 +1,3 @@
+Files with the .h5 extension are used to store data in a Hierarchical Data Format (HDF). HDF is a file format that is used to store large amounts of data in a tree-like structure, with multiple datasets organized into a hierarchy of groups. The .h5 format is often used to store machine learning models, as it allows for efficient storage and access of large amounts of data, such as the weights and biases of a neural network.
+
+In the context of a machine learning project, .h5 files might be used to store trained models so that they can be loaded and used for prediction or inference at a later time.
