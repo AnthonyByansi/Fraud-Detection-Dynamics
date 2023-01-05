@@ -12,7 +12,7 @@ Python 3.6 or higher
 TensorFlow 2.0 or higher
 scikit-learn 0.23 or higher
 Installation
-* Clone the repository to your local machine: `git clone https://github.com/<your-username>/fraud-detection-dynamics.git`
+* Clone the repository to your local machine: `https://github.com/AnthonyByansi/Fraud-Detection-Dynamics.git`
 * Navigate to the project directory: cd fraud-detection-dynamics
 * Install the required Python packages: `pip install -r requirements.txt`
 * Run the model training script: `python train.py`
