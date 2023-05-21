@@ -26,7 +26,7 @@ To deploy Fraud Detection Dynamics in a production environment, you will need to
 We welcome contributions to Fraud Detection Dynamics! If you have an idea for a new feature or a bug fix, please open a pull request.
 
 ## License
-Fraud Detection Dynamics is licensed under the MIT License. See (LICENSE)[https://github.com/AnthonyByansi/Fraud-Detection-Dynamics/blob/main/LICENSE] for details.
+Fraud Detection Dynamics is licensed under the MIT License. See [LICENSE](https://github.com/AnthonyByansi/Fraud-Detection-Dynamics/blob/main/LICENSE) for details.
 
 
 
